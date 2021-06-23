@@ -1,2 +1,3 @@
 # centos-garden
-docker container based on centos with garden installed
+
+docker run -it tedchang77/centos7-garden bash
